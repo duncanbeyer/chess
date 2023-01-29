@@ -13,7 +13,7 @@ I wrote almost all of it during winter break to keep myself occupied. I finished
 the beginning of the following college term. It was all written quickly using whatever logic I could think to do first. I had to look up what the exact rules
 were for operations such as en passant and castling but the logic of implementing it is all my own.
 
-If you are interested in the specific logics of the game, the program is rife with comments.
+If you are interested in the logic web running the game, the program is rife with comments. start at main in RunWindow.
 
 Features
 =======
